@@ -24,6 +24,15 @@ body, html {
     max-width: 100%;
     box-sizing: border-box;
   }
+
+a:hover {
+    color: #02b3e4;
+}
+
+/* selected link */
+a:active {
+    color: #424242;
+}
   
   /* 
   * flex
